@@ -35,7 +35,7 @@ import os
 import sys
 
 import sphinx_rtd_theme
-from recommonmark.parser import CommonMarkParser
+
 
 
 
@@ -44,9 +44,6 @@ sys.path.append(os.path.abspath('_ext'))
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.httpdomain',
-    'djangodocs',
-    'doc_extensions',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
