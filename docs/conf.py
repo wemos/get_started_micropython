@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Get started in MicroPython documentation build configuration file, created by
-# sphinx-quickstart on Wed Oct 11 16:32:07 2017.
+# sphinx-quickstart on Wed Oct 11 19:24:35 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -54,7 +54,7 @@ author = u'WEMOS.CC'
 # built documents.
 #
 # The short X.Y version.
-version = u'1.0.0'
+version = u''
 # The full version, including alpha/beta/rc tags.
 release = u'1.0.0'
 
